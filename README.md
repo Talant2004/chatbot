@@ -29,3 +29,5 @@ const ENDPOINT = "https://models.github.ai/inference";
 const MODEL = "openai/gpt-4.1";
 3.Запусти приложение:
 npx expo start
+![photo_2025-07-09_15-08-10](https://github.com/user-attachments/assets/2012ec68-2995-4e07-8440-f04a52da98f5)
+![photo_2025-07-09_15-08-15](https://github.com/user-attachments/assets/500c77e0-0208-4b8f-91dd-56642da5a614)
